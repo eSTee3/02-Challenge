@@ -24,7 +24,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #40413e;
     font-family:'Courier New', Courier, monospace;
 }
 
@@ -203,4 +203,6 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    font-stretch: condensed;
+    text-shadow: #fc0 1px 0 10px;
 }
