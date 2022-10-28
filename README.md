@@ -35,7 +35,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Mock-Up
 The following animation shows the web application's appearance and functionality:
 
-A video displays a sample portfolio.
+
+### Sample portfolio
+[![name](assets/images/Original%20Example%20Website.gif)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 How to Complete the Challenge
 Follow these steps to complete the challenge:
