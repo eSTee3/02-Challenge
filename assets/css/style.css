@@ -55,12 +55,9 @@ p {
 }
 
 .hero {
-    /*changed height to 100%*/
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    /*removed url reference to picture so that we can add a descriptor to the html*/
-    /*changed size and position to 100%*/
     background-size: auto;
     background-position: auto;
 }
@@ -89,7 +86,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #1e0932;
 }
 
 .benefit-lead {
@@ -145,7 +142,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #25103a;
     color: #ffffff;
 }
 
@@ -154,7 +151,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #25103a;
     color: #ffffff;
 }
 
@@ -163,7 +160,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #25103a;
     color: #ffffff;
 }
 
