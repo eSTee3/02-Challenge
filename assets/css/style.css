@@ -85,8 +85,13 @@ p {
     color: #ffffff;
 }
 
-.my-details li{
-    margin: 10px 0px 0px 35px;
+.my-details ul{
+    margin-top: 35px;
+    text-align: left;
+}
+
+.my-details ul li{
+    margin: 5px 0px 0px 35px;
     text-align: left;
 }
 
@@ -99,16 +104,16 @@ p {
 
 .my-details h3 {
     margin-bottom: 10px;
+    font-size: 200%;
     text-align: center;
 }
 
 .contact-info h3 {
     margin-bottom: 10px;
-    font-size: 200%;
     text-align: center;
 }
 
-.contact-info li {
+.contact-info ul {
     margin: 10px 0px 00px 30px;
     text-align: left;
 }
