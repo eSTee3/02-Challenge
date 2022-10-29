@@ -38,10 +38,12 @@ body {
 }
 
 .header div ul {
+    padding: 10px;
     list-style-type: none;
 }
 
 .header div ul li {
+    padding: 10px;
     display: inline-block;
 }
 
