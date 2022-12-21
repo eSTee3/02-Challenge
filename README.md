@@ -22,7 +22,7 @@ This application contains my current portfolio of past and present applications 
 
 # Application Details
 
-[Mark Battaglia c0d1ng Portfolio](https://estee3.github.io/03-Challenge/)
+[Mark Battaglia c0d1ng Portfolio](https://estee3.github.io/Professional-Portfolio/)
 
 ![alt text](assets/images/Portfolio%20Site.png)
 
